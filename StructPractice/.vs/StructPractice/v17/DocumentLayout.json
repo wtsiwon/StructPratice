@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siwon\\source\\repos\\StructPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131D3C5A-B287-4C50-887E-D3EFA3073F12}|StructPratice2\\StructPratice2.vcxproj|C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPratice2\\Struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{131D3C5A-B287-4C50-887E-D3EFA3073F12}|StructPratice2\\StructPratice2.vcxproj|solutionrelative:StructPratice2\\Struct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B90751-1ACB-41B8-839A-D8C97E5311D9}|Matter1\\Matter1.vcxproj|C:\\Users\\siwon\\source\\repos\\StructPractice\\Matter1\\jong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5B90751-1ACB-41B8-839A-D8C97E5311D9}|Matter1\\Matter1.vcxproj|solutionrelative:Matter1\\jong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA15C88-0724-4006-8BDE-955FDE275EA9}|StructPractice\\StructPractice.vcxproj|C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPractice\\Struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EA15C88-0724-4006-8BDE-955FDE275EA9}|StructPractice\\StructPractice.vcxproj|solutionrelative:StructPractice\\Struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB590972-BB5E-4BE6-8CAE-BE93E39B199F}|10-11\\10-11.vcxproj|C:\\Users\\siwon\\source\\repos\\StructPractice\\10-11\\10-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB590972-BB5E-4BE6-8CAE-BE93E39B199F}|10-11\\10-11.vcxproj|solutionrelative:10-11\\10-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB7D972-7C40-4F66-913E-45E0A5577277}|StructArray\\StructArray.vcxproj|C:\\Users\\siwon\\source\\repos\\StructPractice\\StructArray\\StructArr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAB7D972-7C40-4F66-913E-45E0A5577277}|StructArray\\StructArray.vcxproj|solutionrelative:StructArray\\StructArr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct2.c",
+              "DocumentMoniker": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPratice2\\Struct2.c",
+              "RelativeDocumentMoniker": "StructPratice2\\Struct2.c",
+              "ToolTip": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPratice2\\Struct2.c",
+              "RelativeToolTip": "StructPratice2\\Struct2.c",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-12T06:47:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jong.cpp",
+              "DocumentMoniker": "C:\\Users\\siwon\\source\\repos\\StructPractice\\Matter1\\jong.cpp",
+              "RelativeDocumentMoniker": "Matter1\\jong.cpp",
+              "ToolTip": "C:\\Users\\siwon\\source\\repos\\StructPractice\\Matter1\\jong.cpp",
+              "RelativeToolTip": "Matter1\\jong.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T06:40:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StructArr.c",
+              "DocumentMoniker": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructArray\\StructArr.c",
+              "RelativeDocumentMoniker": "StructArray\\StructArr.c",
+              "ToolTip": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructArray\\StructArr.c",
+              "RelativeToolTip": "StructArray\\StructArr.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-09T07:17:02.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "10-11.c",
+              "DocumentMoniker": "C:\\Users\\siwon\\source\\repos\\StructPractice\\10-11\\10-11.c",
+              "RelativeDocumentMoniker": "10-11\\10-11.c",
+              "ToolTip": "C:\\Users\\siwon\\source\\repos\\StructPractice\\10-11\\10-11.c",
+              "RelativeToolTip": "10-11\\10-11.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-09T03:56:40.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Struct.c",
+              "DocumentMoniker": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPractice\\Struct.c",
+              "RelativeDocumentMoniker": "StructPractice\\Struct.c",
+              "ToolTip": "C:\\Users\\siwon\\source\\repos\\StructPractice\\StructPractice\\Struct.c",
+              "RelativeToolTip": "StructPractice\\Struct.c",
+              "ViewState": "AQIAABoAAAAALrro5qILwCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T10:10:12.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
